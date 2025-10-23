@@ -1,0 +1,19 @@
+{
+    "name": "viniciusrossi/rossifutstore",
+    "description": "Projeto da Aula de programação para Internet do Curso de GTI na Fatec Jahu",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius Rossi",
+            "email": "rossivini1010@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
